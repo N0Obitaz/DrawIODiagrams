@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.2">
   <diagram name="Page-1" id="AGJRzT_OhnzU_PfbtV0n">
-    <mxGraphModel dx="3437" dy="2132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2797" dy="1752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,7 +84,7 @@
             <mxPoint x="-630" y="1360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VZnbxfNPQ8UnDCiT-unX-60" value="CourseCode" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
+        <mxCell id="VZnbxfNPQ8UnDCiT-unX-60" value="CourseCode (FK)" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="-877" y="1428" width="195" height="60" as="geometry" />
         </mxCell>
         <mxCell id="78UuznA5aA8SNeWMlHvX-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="VZnbxfNPQ8UnDCiT-unX-61" target="VZnbxfNPQ8UnDCiT-unX-2">
@@ -96,7 +96,7 @@
         <mxCell id="78UuznA5aA8SNeWMlHvX-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="VZnbxfNPQ8UnDCiT-unX-62" target="VZnbxfNPQ8UnDCiT-unX-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VZnbxfNPQ8UnDCiT-unX-62" value="InstructorID" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
+        <mxCell id="VZnbxfNPQ8UnDCiT-unX-62" value="InstructorID (FK)" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="-959" y="1358" width="195" height="60" as="geometry" />
         </mxCell>
         <mxCell id="78UuznA5aA8SNeWMlHvX-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="VZnbxfNPQ8UnDCiT-unX-63" target="VZnbxfNPQ8UnDCiT-unX-2">

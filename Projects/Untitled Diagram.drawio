@@ -1,43 +1,43 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.2">
   <diagram name="Page-1" id="AGJRzT_OhnzU_PfbtV0n">
-    <mxGraphModel dx="1240" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1826" dy="1901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HV2ZFBBPWrTVuAOWlXsi-1" value="Student" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="-330" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HV2ZFBBPWrTVuAOWlXsi-2" value="Course" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="-350" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="-160" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HV2ZFBBPWrTVuAOWlXsi-3" value="Department" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="480" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="172.5" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HV2ZFBBPWrTVuAOWlXsi-4" value="Instructor" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="470" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HV2ZFBBPWrTVuAOWlXsi-6" value="Payment" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="200" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="820" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HV2ZFBBPWrTVuAOWlXsi-8" value="Grade" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="100" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HV2ZFBBPWrTVuAOWlXsi-9" value="Enrollment" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="-220" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VZnbxfNPQ8UnDCiT-unX-2" value="Schedule" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="-140" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VZnbxfNPQ8UnDCiT-unX-3" value="StudentID" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="VZnbxfNPQ8UnDCiT-unX-3" value="StudentID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-485" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VZnbxfNPQ8UnDCiT-unX-4" value="FirstName" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="VZnbxfNPQ8UnDCiT-unX-4" value="FirstName" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="-485" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VZnbxfNPQ8UnDCiT-unX-5" value="LastName" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="VZnbxfNPQ8UnDCiT-unX-5" value="LastName" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="-485" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VZnbxfNPQ8UnDCiT-unX-8" value="Birthdate" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="VZnbxfNPQ8UnDCiT-unX-8" value="Birthdate" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-630" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VZnbxfNPQ8UnDCiT-unX-9" value="Age" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
@@ -60,6 +60,63 @@
         </mxCell>
         <mxCell id="VZnbxfNPQ8UnDCiT-unX-19" value="Gender" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-470" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VZnbxfNPQ8UnDCiT-unX-20" value="CourseTitle" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="-87.5" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VZnbxfNPQ8UnDCiT-unX-21" value="Description" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="-87.5" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VZnbxfNPQ8UnDCiT-unX-22" value="CourseCode" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-232.5" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VZnbxfNPQ8UnDCiT-unX-23" value="Units" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-232.5" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VZnbxfNPQ8UnDCiT-unX-24" value="Level" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-232.5" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VZnbxfNPQ8UnDCiT-unX-25" value="DepartmentName" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="242.5" y="-180" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VZnbxfNPQ8UnDCiT-unX-28" value="DepartmentID" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="32.5" y="-180" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VZnbxfNPQ8UnDCiT-unX-29" value="DepartmentName" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="32.5" y="-90" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VZnbxfNPQ8UnDCiT-unX-30" value="FullName" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="577.5" y="600" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VZnbxfNPQ8UnDCiT-unX-31" value="InstructorID" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="600" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VZnbxfNPQ8UnDCiT-unX-32" value="Email" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="690" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VZnbxfNPQ8UnDCiT-unX-33" value="ContactNumber" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="785" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VZnbxfNPQ8UnDCiT-unX-34" value="Specialization" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="577.5" y="690" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VZnbxfNPQ8UnDCiT-unX-35" value="StudentID" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="-325" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VZnbxfNPQ8UnDCiT-unX-36" value="EnrollmentID" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="-325" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VZnbxfNPQ8UnDCiT-unX-37" value="CourseCode" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="-235" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VZnbxfNPQ8UnDCiT-unX-38" value="SchoolYear" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="-140" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VZnbxfNPQ8UnDCiT-unX-39" value="Semester" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="-235" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VZnbxfNPQ8UnDCiT-unX-40" value="Status" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="-140" width="195" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

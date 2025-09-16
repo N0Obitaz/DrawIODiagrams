@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.2">
   <diagram name="Page-1" id="AGJRzT_OhnzU_PfbtV0n">
-    <mxGraphModel dx="3105" dy="2867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2894" dy="2767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -547,7 +547,7 @@
         <mxCell id="dGu4-0tiU0V3zQPcXzdf-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=ERmandOne;endFill=0;" edge="1" parent="1" source="dGu4-0tiU0V3zQPcXzdf-51" target="dGu4-0tiU0V3zQPcXzdf-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dGu4-0tiU0V3zQPcXzdf-51" value="Belongs" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="dGu4-0tiU0V3zQPcXzdf-51" value="Offers" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="2558" y="-10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dGu4-0tiU0V3zQPcXzdf-55" value="Semester" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -672,6 +672,21 @@
         </mxCell>
         <mxCell id="dGu4-0tiU0V3zQPcXzdf-117" value="Semester" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="3810" y="339" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGu4-0tiU0V3zQPcXzdf-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=ERmandOne;startFill=0;" edge="1" parent="1" source="dGu4-0tiU0V3zQPcXzdf-119" target="dGu4-0tiU0V3zQPcXzdf-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dGu4-0tiU0V3zQPcXzdf-119" value="Instructor" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3140" y="556" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGu4-0tiU0V3zQPcXzdf-120" value="Course" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3570" y="556" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGu4-0tiU0V3zQPcXzdf-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERzeroToMany;endFill=0;" edge="1" parent="1" source="dGu4-0tiU0V3zQPcXzdf-123" target="dGu4-0tiU0V3zQPcXzdf-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dGu4-0tiU0V3zQPcXzdf-123" value="Teaches" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3390" y="546" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

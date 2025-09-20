@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
   <diagram name="Page-1" id="qvTr1vF118DOHinBbYNL">
-    <mxGraphModel dx="1289" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="752" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -223,11 +223,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="keLqlVbvUYa2Wpqa0oZm-52" value="Updated Balance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="790" width="120" height="30" as="geometry" />
+        <mxCell id="keLqlVbvUYa2Wpqa0oZm-52" value="Updated Balance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="790" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="keLqlVbvUYa2Wpqa0oZm-53" value="Balance Inquiry&lt;div&gt;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Entry&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="780" width="110" height="40" as="geometry" />
+        <mxCell id="keLqlVbvUYa2Wpqa0oZm-53" value="Balance Inquiry&lt;div&gt;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Entry&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="780" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="keLqlVbvUYa2Wpqa0oZm-55" value="Update Balance" style="ellipse;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="1440" y="360" width="80" height="80" as="geometry" />
@@ -302,6 +302,123 @@
         <mxCell id="keLqlVbvUYa2Wpqa0oZm-84" value="Withdrawal&amp;nbsp;&lt;div&gt;Receipt&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="keLqlVbvUYa2Wpqa0oZm-73">
           <mxGeometry x="0.1188" y="2" relative="1" as="geometry">
             <mxPoint x="-17" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keLqlVbvUYa2Wpqa0oZm-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="keLqlVbvUYa2Wpqa0oZm-89" target="keLqlVbvUYa2Wpqa0oZm-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="keLqlVbvUYa2Wpqa0oZm-93" value="Withdraw Amount" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="keLqlVbvUYa2Wpqa0oZm-91">
+          <mxGeometry x="0.1641" relative="1" as="geometry">
+            <mxPoint x="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keLqlVbvUYa2Wpqa0oZm-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="keLqlVbvUYa2Wpqa0oZm-89">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1879" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keLqlVbvUYa2Wpqa0oZm-89" value="Customer" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="360" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="keLqlVbvUYa2Wpqa0oZm-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="keLqlVbvUYa2Wpqa0oZm-90" target="keLqlVbvUYa2Wpqa0oZm-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="keLqlVbvUYa2Wpqa0oZm-102" value="Entered Withdraw Amount" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="keLqlVbvUYa2Wpqa0oZm-101">
+          <mxGeometry x="0.0276" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keLqlVbvUYa2Wpqa0oZm-90" value="Withdraw" style="ellipse;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="345" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="keLqlVbvUYa2Wpqa0oZm-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="keLqlVbvUYa2Wpqa0oZm-94" target="keLqlVbvUYa2Wpqa0oZm-95">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2420" y="450" />
+              <mxPoint x="2110" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keLqlVbvUYa2Wpqa0oZm-105" value="Current Balance" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="keLqlVbvUYa2Wpqa0oZm-103">
+          <mxGeometry x="-0.1028" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keLqlVbvUYa2Wpqa0oZm-94" value="Customer Account" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
+          <mxGeometry x="2390" y="367.5" width="130" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="keLqlVbvUYa2Wpqa0oZm-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="keLqlVbvUYa2Wpqa0oZm-95">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1910" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1910" y="545" />
+              <mxPoint x="1910" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keLqlVbvUYa2Wpqa0oZm-106" value="Withdrawal Amount Rejection" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="keLqlVbvUYa2Wpqa0oZm-104">
+          <mxGeometry x="-0.3424" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keLqlVbvUYa2Wpqa0oZm-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="keLqlVbvUYa2Wpqa0oZm-95" target="keLqlVbvUYa2Wpqa0oZm-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="keLqlVbvUYa2Wpqa0oZm-116" value="Withdrawal&lt;br&gt;Amount" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="keLqlVbvUYa2Wpqa0oZm-108">
+          <mxGeometry x="-0.2242" y="-1" relative="1" as="geometry">
+            <mxPoint x="5" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keLqlVbvUYa2Wpqa0oZm-95" value="Verify withdraw Amount" style="ellipse;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="2070" y="505" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="keLqlVbvUYa2Wpqa0oZm-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="keLqlVbvUYa2Wpqa0oZm-107" target="keLqlVbvUYa2Wpqa0oZm-111">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2430" y="540" />
+              <mxPoint x="2430" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keLqlVbvUYa2Wpqa0oZm-115" value="Transaction Details" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="keLqlVbvUYa2Wpqa0oZm-112">
+          <mxGeometry x="-0.2563" y="1" relative="1" as="geometry">
+            <mxPoint x="10" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keLqlVbvUYa2Wpqa0oZm-107" value="Dispense&lt;div&gt;Cash&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="505" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="keLqlVbvUYa2Wpqa0oZm-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2510" y="545" as="sourcePoint" />
+            <mxPoint x="2490" y="402.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2490" y="460" />
+              <mxPoint x="2490" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keLqlVbvUYa2Wpqa0oZm-114" value="Transaction Log" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="keLqlVbvUYa2Wpqa0oZm-113">
+          <mxGeometry x="-0.0962" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keLqlVbvUYa2Wpqa0oZm-111" value="Save Transaction Log" style="ellipse;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="505" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="keLqlVbvUYa2Wpqa0oZm-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1880" y="600" as="targetPoint" />
+            <mxPoint x="2440" y="540" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="2440" y="600" />
+              <mxPoint x="1880" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keLqlVbvUYa2Wpqa0oZm-124" value="Cash Withdrawn" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="keLqlVbvUYa2Wpqa0oZm-123">
+          <mxGeometry x="0.013" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

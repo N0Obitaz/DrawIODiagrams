@@ -24,21 +24,21 @@
             <mxPoint x="290" y="50" as="sourcePoint" />
             <mxPoint x="400" y="170" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="290" y="50" />
+              <mxPoint x="290" y="78" />
               <mxPoint x="290" y="160" />
               <mxPoint x="420" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="keLqlVbvUYa2Wpqa0oZm-4" value="Customer Login Info Entry" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="138" width="160" height="30" as="geometry" />
+          <mxGeometry x="280" y="166" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="keLqlVbvUYa2Wpqa0oZm-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=1.004;exitY=0.405;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="keLqlVbvUYa2Wpqa0oZm-17" target="fmIVvGYkrV_x8N7QvULs-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="50" as="sourcePoint" />
             <mxPoint x="500" y="250" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="630" y="50" />
+              <mxPoint x="630" y="78" />
               <mxPoint x="630" y="160" />
               <mxPoint x="570" y="160" />
               <mxPoint x="502" y="160" />
@@ -46,14 +46,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="keLqlVbvUYa2Wpqa0oZm-6" value="Withdrawal Entry" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="510" y="138" width="110" height="30" as="geometry" />
+          <mxGeometry x="510" y="166" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="keLqlVbvUYa2Wpqa0oZm-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.337;entryY=0.031;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.005;exitY=0.622;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="keLqlVbvUYa2Wpqa0oZm-17" target="fmIVvGYkrV_x8N7QvULs-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="60" as="sourcePoint" />
             <mxPoint x="440" y="220" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="300" y="60" />
+              <mxPoint x="300" y="90" />
               <mxPoint x="300" y="130" />
               <mxPoint x="440" y="130" />
               <mxPoint x="440" y="142" />
@@ -65,7 +65,7 @@
             <mxPoint x="640" y="40" as="sourcePoint" />
             <mxPoint x="480" y="240" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="620" y="60" />
+              <mxPoint x="620" y="90" />
               <mxPoint x="620" y="130" />
               <mxPoint x="480" y="130" />
               <mxPoint x="480" y="142" />
@@ -78,7 +78,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="keLqlVbvUYa2Wpqa0oZm-10" value="Deposit Entry" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="330" y="108" width="100" height="30" as="geometry" />
+          <mxGeometry x="330" y="136" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="keLqlVbvUYa2Wpqa0oZm-12" value="Receipt Printing&lt;div&gt;&amp;nbsp;Generated&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="490" y="480" width="110" height="40" as="geometry" />
@@ -97,7 +97,7 @@
           <mxGeometry x="325" y="480" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="keLqlVbvUYa2Wpqa0oZm-17" value="Customer" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="410" y="30" width="100" height="50" as="geometry" />
+          <mxGeometry x="410" y="58" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="keLqlVbvUYa2Wpqa0oZm-19" value="Customer" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1100" y="58" width="100" height="50" as="geometry" />

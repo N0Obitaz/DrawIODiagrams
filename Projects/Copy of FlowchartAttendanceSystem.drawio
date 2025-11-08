@@ -51,11 +51,11 @@
           <mxGeometry x="410" y="540" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K7Q8r9yl-GZZfQCXfa5l-26" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="590" y="1180" width="100" height="60" as="geometry" />
+          <mxGeometry x="590" y="1140" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1NsUXkt-pMDmIKkLJrqv-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Za_ec7ISAvwltGBtsriH-5" target="K7Q8r9yl-GZZfQCXfa5l-26" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="1210" as="sourcePoint" />
+            <mxPoint x="510" y="1170" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1NsUXkt-pMDmIKkLJrqv-7" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" parent="1NsUXkt-pMDmIKkLJrqv-5" vertex="1" connectable="0">
@@ -66,7 +66,7 @@
         <mxCell id="1NsUXkt-pMDmIKkLJrqv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Za_ec7ISAvwltGBtsriH-5" target="6gtTT5hDU7A97V9WsIGB-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="290" y="1210" />
+              <mxPoint x="290" y="1170" />
               <mxPoint x="290" y="570" />
             </Array>
             <mxPoint x="440" y="1260" as="sourcePoint" />
@@ -149,10 +149,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pZDCWOTyGzGIaDnK7jIC-20" value="View Logs?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="400" y="960" width="120" height="120" as="geometry" />
+          <mxGeometry x="400" y="920" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pZDCWOTyGzGIaDnK7jIC-22" value="Transaction&lt;br&gt;Logs Page" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="590" y="990" width="100" height="60" as="geometry" />
+          <mxGeometry x="590" y="950" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Za_ec7ISAvwltGBtsriH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pZDCWOTyGzGIaDnK7jIC-11" target="pZDCWOTyGzGIaDnK7jIC-3">
           <mxGeometry relative="1" as="geometry" />
@@ -171,7 +171,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Za_ec7ISAvwltGBtsriH-5" value="Logout?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1150" width="120" height="120" as="geometry" />
+          <mxGeometry x="400" y="1110" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Za_ec7ISAvwltGBtsriH-14" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1160" y="720" width="40" height="40" as="geometry" />

@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
   <diagram name="Page-1" id="pqIraInndYry2Uh8-mI4">
-    <mxGraphModel dx="902" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1388" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,41 +43,41 @@
         <mxCell id="hFLqDpTppVUrNJYP1Mqc-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Use DB" vertex="1">
           <mxGeometry height="30" width="60" x="630" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="hFLqDpTppVUrNJYP1Mqc-11" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" value="1.0" vertex="1">
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-11" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" value="2.0" vertex="1">
           <mxGeometry height="50" width="100" x="250" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="hFLqDpTppVUrNJYP1Mqc-12" parent="hFLqDpTppVUrNJYP1Mqc-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="User Login" vertex="1">
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-12" parent="hFLqDpTppVUrNJYP1Mqc-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="User Register" vertex="1">
           <mxGeometry height="30" width="100" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="hFLqDpTppVUrNJYP1Mqc-13" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" value="1.0" vertex="1">
-          <mxGeometry height="50" width="100" x="250" y="260" as="geometry" />
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-13" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" value="3.0" vertex="1">
+          <mxGeometry height="50" width="110" x="240" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="hFLqDpTppVUrNJYP1Mqc-14" parent="hFLqDpTppVUrNJYP1Mqc-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="User Login" vertex="1">
-          <mxGeometry height="30" width="100" y="20" as="geometry" />
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-14" parent="hFLqDpTppVUrNJYP1Mqc-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Enter public status of a certain area" vertex="1">
+          <mxGeometry height="30" width="110" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="hFLqDpTppVUrNJYP1Mqc-15" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" value="1.1" vertex="1">
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-15" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" value="2.1" vertex="1">
           <mxGeometry height="50" width="100" x="420" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="hFLqDpTppVUrNJYP1Mqc-16" parent="hFLqDpTppVUrNJYP1Mqc-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Logged In" vertex="1">
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-16" parent="hFLqDpTppVUrNJYP1Mqc-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Registered" vertex="1">
           <mxGeometry height="30" width="100" y="20" as="geometry" />
         </mxCell>
         <mxCell id="hFLqDpTppVUrNJYP1Mqc-17" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" value="1.1" vertex="1">
-          <mxGeometry height="50" width="100" x="420" y="260" as="geometry" />
+          <mxGeometry height="50" width="105" x="425" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="hFLqDpTppVUrNJYP1Mqc-18" parent="hFLqDpTppVUrNJYP1Mqc-17" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Logged In" vertex="1">
-          <mxGeometry height="30" width="100" y="20" as="geometry" />
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-55" parent="hFLqDpTppVUrNJYP1Mqc-17" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Logged In" vertex="1">
+          <mxGeometry height="30" width="105" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="hFLqDpTppVUrNJYP1Mqc-19" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" value="D1" vertex="1">
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-19" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" value="D2" vertex="1">
           <mxGeometry height="50" width="110" x="590" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="hFLqDpTppVUrNJYP1Mqc-20" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" value="1.1" vertex="1">
-          <mxGeometry height="50" width="100" x="590" y="260" as="geometry" />
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-20" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" value="3.2" vertex="1">
+          <mxGeometry height="50" width="100" x="610" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="hFLqDpTppVUrNJYP1Mqc-21" parent="hFLqDpTppVUrNJYP1Mqc-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Logged In" vertex="1">
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-21" parent="hFLqDpTppVUrNJYP1Mqc-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Save public status" vertex="1">
           <mxGeometry height="30" width="100" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="hFLqDpTppVUrNJYP1Mqc-22" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" value="D1" vertex="1">
-          <mxGeometry height="50" width="110" x="760" y="260" as="geometry" />
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-22" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" value="D3" vertex="1">
+          <mxGeometry height="50" width="110" x="780" y="260" as="geometry" />
         </mxCell>
         <mxCell id="hFLqDpTppVUrNJYP1Mqc-23" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -99,14 +99,14 @@
         </mxCell>
         <mxCell id="hFLqDpTppVUrNJYP1Mqc-26" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="520" y="284.5" as="sourcePoint" />
-            <mxPoint x="590" y="284.5" as="targetPoint" />
+            <mxPoint x="540" y="284.68" as="sourcePoint" />
+            <mxPoint x="610" y="284.68" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hFLqDpTppVUrNJYP1Mqc-27" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="690" y="284.5" as="sourcePoint" />
-            <mxPoint x="760" y="284.5" as="targetPoint" />
+            <mxPoint x="710" y="284.68" as="sourcePoint" />
+            <mxPoint x="780" y="284.68" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hFLqDpTppVUrNJYP1Mqc-28" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="hFLqDpTppVUrNJYP1Mqc-12" value="">
@@ -117,6 +117,127 @@
             <mxPoint x="120" y="110" as="sourcePoint" />
             <mxPoint x="210" y="110" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-29" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="285" />
+            </Array>
+            <mxPoint x="80" y="110" as="sourcePoint" />
+            <mxPoint x="240" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Use DB" vertex="1">
+          <mxGeometry height="30" width="60" x="630" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Select Calamities (water level station or earthquake events)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="420" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-34" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="280" />
+              <mxPoint x="540" y="280" />
+            </Array>
+            <mxPoint x="420" y="280" as="sourcePoint" />
+            <mxPoint x="510" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3.1" vertex="1">
+          <mxGeometry height="20" width="80" x="440" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Public Map DB" vertex="1">
+          <mxGeometry height="30" width="60" x="810" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-38" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Admin&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="100" x="60" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-39" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="464.41" as="sourcePoint" />
+            <mxPoint x="250" y="464.41" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-40" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" value="1.0" vertex="1">
+          <mxGeometry height="50" width="100" x="250" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-41" parent="hFLqDpTppVUrNJYP1Mqc-40" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Admin Login" vertex="1">
+          <mxGeometry height="30" width="100" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-42" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="350" y="464.40999999999997" as="sourcePoint" />
+            <mxPoint x="420" y="464.40999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-43" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="535" y="464.58000000000004" as="sourcePoint" />
+            <mxPoint x="605" y="464.58000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-44" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" value="D1" vertex="1">
+          <mxGeometry height="50" width="110" x="605" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-45" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="568" />
+            </Array>
+            <mxPoint x="120" y="490" as="sourcePoint" />
+            <mxPoint x="250" y="568" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-46" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" value="2.0" vertex="1">
+          <mxGeometry height="50" width="100" x="250" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-47" parent="hFLqDpTppVUrNJYP1Mqc-46" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Admin Dashboard" vertex="1">
+          <mxGeometry height="30" width="100" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-48" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="350" y="564.5" as="sourcePoint" />
+            <mxPoint x="420" y="564.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-49" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" value="2.1" vertex="1">
+          <mxGeometry height="50" width="100" x="425" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-50" parent="hFLqDpTppVUrNJYP1Mqc-49" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Manage Users" vertex="1">
+          <mxGeometry height="30" width="100" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-51" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="525" y="564.5" as="sourcePoint" />
+            <mxPoint x="595" y="564.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;View user&#39;s public status updates" vertex="1">
+          <mxGeometry height="70" width="120" x="595" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-53" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" value="D2" vertex="1">
+          <mxGeometry height="50" width="110" x="785" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-54" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="715" y="564.5" as="sourcePoint" />
+            <mxPoint x="785" y="564.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Admin DB" vertex="1">
+          <mxGeometry height="30" width="60" x="640" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2.2" vertex="1">
+          <mxGeometry height="20" width="80" x="615" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-58" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="595" y="560" as="sourcePoint" />
+            <mxPoint x="715" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hFLqDpTppVUrNJYP1Mqc-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Admin DB" vertex="1">
+          <mxGeometry height="30" width="60" x="820" y="550" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

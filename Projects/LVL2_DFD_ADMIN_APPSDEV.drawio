@@ -1,9 +1,101 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.1">
   <diagram name="Page-1" id="T7C-ea9sElVZHbLW6-aK">
-    <mxGraphModel>
+    <mxGraphModel dx="902" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="POKUAz_mnXiPIO7ex9Tt-2" parent="1" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;shape=mxgraph.ios7ui.horLines;" value="Users DB" vertex="1">
+          <mxGeometry height="50" width="135" x="780" y="357.5" as="geometry" />
+        </mxCell>
+        <mxCell id="POKUAz_mnXiPIO7ex9Tt-3" edge="1" parent="1" source="POKUAz_mnXiPIO7ex9Tt-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="POKUAz_mnXiPIO7ex9Tt-2" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="382.5" as="sourcePoint" />
+            <mxPoint x="750" y="382.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="POKUAz_mnXiPIO7ex9Tt-4" connectable="0" parent="POKUAz_mnXiPIO7ex9Tt-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Entered Login&lt;div&gt;Info&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.3369" y="3" as="geometry">
+            <mxPoint x="13" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="POKUAz_mnXiPIO7ex9Tt-5" edge="1" parent="1" source="POKUAz_mnXiPIO7ex9Tt-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="POKUAz_mnXiPIO7ex9Tt-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="599.9999999999966" y="382.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="POKUAz_mnXiPIO7ex9Tt-6" connectable="0" parent="POKUAz_mnXiPIO7ex9Tt-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Email, Password" vertex="1">
+          <mxGeometry relative="1" x="-0.1515" y="2" as="geometry">
+            <mxPoint x="9" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="POKUAz_mnXiPIO7ex9Tt-7" edge="1" parent="1" source="POKUAz_mnXiPIO7ex9Tt-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="POKUAz_mnXiPIO7ex9Tt-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="POKUAz_mnXiPIO7ex9Tt-8" connectable="0" parent="POKUAz_mnXiPIO7ex9Tt-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Incident Report&lt;div&gt;&amp;nbsp;Details&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.4538" as="geometry">
+            <mxPoint x="5" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="POKUAz_mnXiPIO7ex9Tt-9" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="Admin" vertex="1">
+          <mxGeometry height="50" width="100" x="380" y="357.5" as="geometry" />
+        </mxCell>
+        <mxCell id="POKUAz_mnXiPIO7ex9Tt-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=2;" value="Login" vertex="1">
+          <mxGeometry height="80" width="80" x="580" y="342.5" as="geometry" />
+        </mxCell>
+        <mxCell id="POKUAz_mnXiPIO7ex9Tt-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=2;" value="Submit Incident Reports" vertex="1">
+          <mxGeometry height="80" width="80" x="580" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="POKUAz_mnXiPIO7ex9Tt-17" parent="1" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;shape=mxgraph.ios7ui.horLines;" value="Incident Reports DB" vertex="1">
+          <mxGeometry height="50" width="135" x="780" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="POKUAz_mnXiPIO7ex9Tt-18" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="POKUAz_mnXiPIO7ex9Tt-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="500" />
+              <mxPoint x="770" y="500" />
+            </Array>
+            <mxPoint x="660" y="500" as="sourcePoint" />
+            <mxPoint x="780" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="POKUAz_mnXiPIO7ex9Tt-19" connectable="0" parent="POKUAz_mnXiPIO7ex9Tt-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Pending Incident&lt;div&gt;Report&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0067" y="2" as="geometry">
+            <mxPoint x="-10" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="POKUAz_mnXiPIO7ex9Tt-20" parent="1" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;shape=mxgraph.ios7ui.horLines;" value="Water Levels DB" vertex="1">
+          <mxGeometry height="50" width="135" x="780" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="POKUAz_mnXiPIO7ex9Tt-21" edge="1" parent="1" source="POKUAz_mnXiPIO7ex9Tt-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="POKUAz_mnXiPIO7ex9Tt-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="POKUAz_mnXiPIO7ex9Tt-22" connectable="0" parent="POKUAz_mnXiPIO7ex9Tt-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Earthquakes Data" vertex="1">
+          <mxGeometry relative="1" x="-0.513" y="1" as="geometry">
+            <mxPoint x="-12" y="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="POKUAz_mnXiPIO7ex9Tt-23" parent="1" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;shape=mxgraph.ios7ui.horLines;" value="Earthquakes DB" vertex="1">
+          <mxGeometry height="50" width="135" x="780" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="POKUAz_mnXiPIO7ex9Tt-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=2;" value="Display&lt;div&gt;Latest Data on Map&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="580" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="POKUAz_mnXiPIO7ex9Tt-25" edge="1" parent="1" source="POKUAz_mnXiPIO7ex9Tt-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.942;entryY=0.282;entryDx=0;entryDy=0;entryPerimeter=0;" target="POKUAz_mnXiPIO7ex9Tt-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="POKUAz_mnXiPIO7ex9Tt-26" edge="1" parent="1" source="POKUAz_mnXiPIO7ex9Tt-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.659;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;" target="POKUAz_mnXiPIO7ex9Tt-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="POKUAz_mnXiPIO7ex9Tt-27" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Water Levels Data" vertex="1">
+          <mxGeometry x="730" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="POKUAz_mnXiPIO7ex9Tt-28" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Displayed on Map" vertex="1">
+          <mxGeometry x="520" y="635" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
